@@ -23,16 +23,16 @@
     ],
     "paths": {
       "@/frontend/*": [
-        "./frontend/*"
+        "../frontend/*"
       ],
       "@/backend/*": [
-        "./backend/*"
+        "../backend/*"
       ],
       "@/shared/*": [
-        "./shared/*"
+        "../shared/*"
       ],
       "@/*": [
-        "./frontend/*"
+        "../frontend/*"
       ]
     },
     "baseUrl": ".",
